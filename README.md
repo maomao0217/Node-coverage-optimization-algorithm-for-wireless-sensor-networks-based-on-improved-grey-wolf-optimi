@@ -14,4 +14,4 @@ No
 If you use this codebase or any part of it for a publication, please cite:
 Wang Z, Xie H, Hu Z, et al. Node coverage optimization algorithm for wireless sensor networks based on improved grey wolf optimizer[J]. Journal of Algorithms & Computational Technology, 2019, 13: 1748302619889498.
 # Contact
-fhzm1995@163.com
+qianyue17@gmail.com
